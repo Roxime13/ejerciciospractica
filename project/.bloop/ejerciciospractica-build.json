@@ -2,15 +2,15 @@
     "version": "1.4.0",
     "project": {
         "name": "ejerciciospractica-build",
-        "directory": "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project",
-        "workspaceDir": "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project",
+        "directory": "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project",
+        "workspaceDir": "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project",
         "sources": [
-            "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\src\\main\\scala",
-            "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\src\\main\\scala-2.12",
-            "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\src\\main\\scala-2",
-            "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\src\\main\\java",
-            "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\src\\main\\scala-sbt-1.0",
-            "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
+            "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\src\\main\\scala",
+            "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\src\\main\\scala-2.12",
+            "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\src\\main\\scala-2",
+            "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\src\\main\\java",
+            "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\src\\main\\scala-sbt-1.0",
+            "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
         ],
         "dependencies": [
             
@@ -105,11 +105,11 @@
             "C:\\Users\\TRENDINGPC\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\reactivestreams\\reactive-streams\\1.0.3\\reactive-streams-1.0.3.jar",
             "C:\\Users\\TRENDINGPC\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\config\\1.4.2\\config-1.4.2.jar"
         ],
-        "out": "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\.bloop\\ejerciciospractica-build",
-        "classesDir": "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\.bloop\\ejerciciospractica-build\\scala-2.12\\sbt-1.0\\classes",
+        "out": "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\.bloop\\ejerciciospractica-build",
+        "classesDir": "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\.bloop\\ejerciciospractica-build\\scala-2.12\\sbt-1.0\\classes",
         "resources": [
-            "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\src\\main\\resources",
-            "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
+            "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\src\\main\\resources",
+            "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -214,22 +214,22 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "C:\\Program Files\\Java\\jdk-11",
+                "home": "C:\\Users\\TRENDINGPC\\AppData\\Local\\Coursier\\cache\\arc\\https\\github.com\\adoptium\\temurin17-binaries\\releases\\download\\jdk-17%252B35\\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\\jdk-17+35",
                 "options": [
-                    "-Duser.dir=C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project"
+                    "-Duser.dir=C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project"
                 ]
             },
             "mainClass": [
                 
             ],
             "runtimeConfig": {
-                "home": "C:\\Program Files\\Java\\jdk-11",
+                "home": "C:\\Users\\TRENDINGPC\\AppData\\Local\\Coursier\\cache\\arc\\https\\github.com\\adoptium\\temurin17-binaries\\releases\\download\\jdk-17%252B35\\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\\jdk-17+35",
                 "options": [
-                    "-Duser.dir=C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project"
+                    "-Duser.dir=C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project"
                 ]
             },
             "classpath": [
-                "C:\\Users\\TRENDINGPC\\Desktop\\scala\\ejerciciospractica\\project\\.bloop\\ejerciciospractica-build\\scala-2.12\\sbt-1.0\\classes",
+                "C:\\Users\\TRENDINGPC\\Documents\\ejercicioscala\\ejerciciospractica\\project\\.bloop\\ejerciciospractica-build\\scala-2.12\\sbt-1.0\\classes",
                 "C:\\Users\\TRENDINGPC\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\1.6.0\\sbt-bloop_2.12_1.0-1.6.0.jar",
                 "C:\\Users\\TRENDINGPC\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.0.2\\bloop-config_2.12-2.0.2.jar",
                 "C:\\Users\\TRENDINGPC\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\plokhotnyuk\\jsoniter-scala\\jsoniter-scala-core_2.12\\2.4.0\\jsoniter-scala-core_2.12-2.4.0.jar",
