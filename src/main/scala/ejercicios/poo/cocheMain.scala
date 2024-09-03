@@ -12,6 +12,6 @@ class Car(make: String, model: String, year: Int){
 }
 object cocheMain {
   def main(args: Array[String]) : Unit = 
-    val car = new Car("Mercedes adad", "Mercedes adada", 1991)
+    val car = new Car("Mercedes", "Mercedes", 1991)
     car.carDetails()
 }

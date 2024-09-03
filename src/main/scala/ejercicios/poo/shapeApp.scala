@@ -17,7 +17,7 @@ class ShapeB{
 object shapeApp {
   def main(args: Array[String]): Unit = 
     val forma = new ShapeB()
-    forma.setDimensions(15.0, 18.4)
+    forma.setDimensions(15.1, 18.4)
     val dimensions = forma.getDimensions
     println(s"Width: ${dimensions.width}")
     println(s"Height: ${dimensions.height}")

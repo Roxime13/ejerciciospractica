@@ -17,7 +17,7 @@ object MathUtils {
 object factorialMain {
 
     def main(args: Array[String]) : Unit = {
-        val numero1 = 10
+        val numero1 = 11
         val resultado1 = MathUtils.factorial(numero1)
         println(s"El factorial del número $numero1 es: $resultado1")
         val numero2 = 25

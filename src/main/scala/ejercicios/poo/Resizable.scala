@@ -14,7 +14,7 @@ class Rectangl(var width: Int, var height: Int) extends Resizable{
 
 object ResizableMain{
    def main(args: Array[String]) : Unit = {
-    val rectangle = new Rectangl(6,9)
+    val rectangle = new Rectangl(6,10)
 
     rectangle.resize(14)
    }

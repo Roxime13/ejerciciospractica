@@ -27,7 +27,7 @@ class Person(var name: String, var age: Int, var country: String){
 object PersonGroup {
   
     def main(args: Array[String]) : Unit = 
-        val person = new Person("Mike",40, "United States")
+        val person = new Person("Mike",41, "United States")
 
         println(s"Nombre de la persona: ${person.name} ")
         println(s"Edad de la persona: ${person.age}")

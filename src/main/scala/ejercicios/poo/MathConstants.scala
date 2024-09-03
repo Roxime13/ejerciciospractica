@@ -10,6 +10,6 @@ object MathConstants {
 
 object MathMain{
     def main(args: Array[String]): Unit = 
-        println(s"El valor de PI es: $PI")
+        println(s"PI vale: $PI")
         println(s"El valor de E es: $E")
 }

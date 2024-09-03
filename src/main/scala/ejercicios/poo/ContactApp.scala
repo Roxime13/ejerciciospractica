@@ -9,7 +9,7 @@ class Customer(val contactInfo: ContactInfo) // objeto en el que se guarda la in
 
 object ContactApp {
   def main(args: Array[String]): Unit = 
-    val cliente = new ContactInfo("Mikael", "mikead@hotmail.com", "C/ en alguna parte nº 12")
+    val cliente = new ContactInfo("Mikael", "mikead@hotmail.com", "C/ en alguna part nº 12")
     val customer = new Customer(cliente)
     println("Datos del cliente ")
     println(s"Nombre del cliente:  ${customer.contactInfo.name}")

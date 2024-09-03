@@ -12,5 +12,5 @@ object trianguloMain {
     val triangulo2 = new Triangle(5.0,5.0,5.0)
 
     println(s"El triángulo es equilateral?: ${triangulo1.isEquilateral()}")
-    println(s"El triángulo es equilateral?: ${triangulo2.isEquilateral()}")
+    println(s"El triángulo es equilater?: ${triangulo2.isEquilateral()}")
 }

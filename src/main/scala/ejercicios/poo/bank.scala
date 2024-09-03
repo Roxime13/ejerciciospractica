@@ -9,7 +9,7 @@ class BankAccount(var accountNumber: String, var balance: Double){
     def withDraw(amount: Double) : Unit = {
         if (amount <= balance){
             balance -= amount
-            println(s"La cuenta es de: $balance")
+            println(s"La cuenta actual es de: $balance")
         } else {
             println(s"Quieres quitar dinero? Hay insuficiente dinero")
         }

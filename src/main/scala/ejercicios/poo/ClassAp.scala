@@ -1,5 +1,6 @@
 package ejercicios.poo
 
+
 // Definición del enum Color
 //Si es Scala 2, no está enum y se debe usar sealed trait y case object en ese caso
 enum Color {
@@ -20,8 +21,12 @@ object ClassApp {
   def main(args: Array[String]): Unit = {
   
     val red: Color = Color.Red
+    val blue: Color = Color.Blue
+    val green: Color = Color.Green
 
     COLORClass.printColor(red)
+    COLORClass.printColor(blue)
+    COLORClass.printColor(green)
   }
 }
 

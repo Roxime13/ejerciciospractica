@@ -18,7 +18,7 @@ object main {
     val rectangle = new Rectangle(5.5,15.5)
     println(s"El area del rectángulo es: ${rectangle.area}")
 
-    val circulo = new Circle(13.3)
+    val circulo = new Circle(13.5)
     println(s"El area de un círculo es: ${circulo.area}")
   }
   

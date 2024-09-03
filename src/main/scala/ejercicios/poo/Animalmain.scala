@@ -2,7 +2,7 @@ package ejercicios.poo
 
 class Animal(var name: String, var sound: String){
     def makeSound() : Unit = {
-        println(s"El $name hace $sound")
+        println(s"El $name hace  $sound")
     }
 }
 

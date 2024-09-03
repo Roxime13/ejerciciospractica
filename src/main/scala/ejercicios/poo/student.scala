@@ -43,7 +43,7 @@ object studentClass {
         student.SetName("Andreas") 
         student.SetAge(35)
         student.SetCountry("México")
-        student.SetGrade("3ESO")
+        student.SetGrade("4ESO")
 
         println(s" \nNombre de la persona cambiado: ${student.getName}")
         println(s"Edad de la persona actualizado: ${student.age}")

@@ -11,6 +11,6 @@ class Employee(name: String, age: Int, designation: String){
 
 object employedMain{
     def main(args: Array[String]) : Unit = 
-        val employee = new Employee("Maria Angéles", 56, "Administrativa" )
+        val employee = new Employee("Maria Angéles", 57, "Administrativa" )
         employee.employeeDetails()
 }
